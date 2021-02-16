@@ -1,11 +1,11 @@
 # Darcula_Xcode
-Darcula of Xcode, Xcode的`Darcula`编辑主题
+Darcula of Xcode, Xcode的`Darcula`编辑器主题
 
 
 
 ## 预览
 
-![image-20200626134354306](https://i.imgur.com/OtYGeM4.png)
+![image-20210216120613382](https://i.imgur.com/2XGnJkG.png)
 
 
 
@@ -15,6 +15,6 @@ Darcula of Xcode, Xcode的`Darcula`编辑主题
 
 
 
-然后在Xcode中打开
+然后在Xcode中选中主题
 
-![image-20200626134523519](https://i.imgur.com/vqyYSrf.png)
+<img src="https://i.imgur.com/vqyYSrf.png" alt="image-20200626134523519" width="80%;" />
